@@ -1,0 +1,52 @@
+[
+  {
+    "id": "geo_france",
+    "text": "Paris is the capital of France. The city proper has a population of approximately 2.1 million people, while the greater Paris metropolitan area has about 12.5 million inhabitants.",
+    "topic": "geography"
+  },
+  {
+    "id": "geo_vietnam",
+    "text": "Hanoi is the capital of Vietnam with approximately 8.4 million residents in its metropolitan area. Ho Chi Minh City is the largest city with over 9 million residents.",
+    "topic": "geography"
+  },
+  {
+    "id": "tech_docker",
+    "text": "Docker containers on the same Docker network can reach each other using the service name as hostname. DNS resolution is handled by Docker's embedded DNS server.",
+    "topic": "devops"
+  },
+  {
+    "id": "tech_python_gil",
+    "text": "Python's Global Interpreter Lock (GIL) prevents multiple native threads from executing Python bytecode simultaneously. For CPU-bound tasks, use multiprocessing instead of threading.",
+    "topic": "python"
+  },
+  {
+    "id": "tech_langgraph",
+    "text": "LangGraph is a framework for building stateful, multi-actor applications with LLMs. It extends LangChain with cycles, controllability, and persistence through StateGraph.",
+    "topic": "ai"
+  },
+  {
+    "id": "health_allergy_soy",
+    "text": "Soy allergy is one of the most common food allergies. Soybeans are found in many processed foods including soy sauce, tofu, tempeh, miso, and edamame. Read labels carefully.",
+    "topic": "health"
+  },
+  {
+    "id": "health_allergy_milk",
+    "text": "Cow's milk allergy differs from lactose intolerance. Milk allergy is an immune response to milk proteins (casein and whey), while lactose intolerance is a digestive issue with the sugar lactose.",
+    "topic": "health"
+  },
+  {
+    "id": "cooking_pasta",
+    "text": "For egg-free pasta, use semolina flour and water only (traditional Italian style). Roll thin, let dry for 15 minutes before cooking in salted boiling water for 2-3 minutes.",
+    "topic": "cooking"
+  },
+  {
+    "id": "cooking_coffee_brew",
+    "text": "Pour-over coffee typically uses a 1:16 coffee-to-water ratio by weight. Water temperature should be 92-96°C. Total brew time 2.5-3 minutes for a 250ml cup.",
+    "topic": "cooking"
+  },
+  {
+    "id": "tech_redis",
+    "text": "Redis is an in-memory key-value data store. It supports strings, hashes, lists, sets, and sorted sets. Default port is 6379. Use EXPIRE for TTL-based eviction.",
+    "topic": "devops"
+  }
+]

@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.vscode/
+.idea/
+data/chroma/
+data/episodic_log.json
+.pytest_cache/
+*.egg-info/
